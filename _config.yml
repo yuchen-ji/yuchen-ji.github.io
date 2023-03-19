@@ -97,11 +97,4 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: stuns
-
-# Deployment
-## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: git
-  repository: https://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@github.com/yuchen-ji/yuchen-ji.github.io.git
-  branch: main
+theme: themes/stun
