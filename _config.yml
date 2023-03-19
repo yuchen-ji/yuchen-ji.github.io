@@ -102,4 +102,6 @@ theme: stuns
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repository: https://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@github.com/yuchen-ji/yuchen-ji.github.io.git
+  branch: main
